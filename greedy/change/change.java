@@ -1,4 +1,4 @@
-package greedy;
+package greedy.change;
 
 public class change {
 
