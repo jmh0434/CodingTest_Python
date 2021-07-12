@@ -38,8 +38,7 @@ python // 연산자
 
 →나누기 연산 후 소수점 이하의 수를 버리고, 정수 부분의 수만 구함
 
-[그리디 알고리즘]
-https://github.com/jmh0434/CodingTest_Python/blob/093083888536276b7431713b2ae29a721edaf20d/greedy/greedy.md
+[그리디 알고리즘]https://github.com/jmh0434/CodingTest_Python/blob/a7653bd33a29e55a2a59a8a4b2dc112446125133/greedy/README.md
 
 
 [구현]
