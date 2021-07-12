@@ -9,3 +9,14 @@
 → 완전 탐색 : 모든 경우의 수를 주저 없이 다 계산하는 해결 방법
 
 → 시뮬레이션 : 문제에서 제시한 알고리즘을 한 단계씩 차례대로 직접 수행
+
+[시각]
+(https://github.com/jmh0434/CodingTest_Python/blob/848a9f6896d005a8384c31d5a57c2201b644c09e/implementation/time/README.md)
+
+[상하좌우]
+(https://github.com/jmh0434/CodingTest_Python/blob/848a9f6896d005a8384c31d5a57c2201b644c09e/implementation/lrud/README.md)
+
+[왕실의 나이트]
+(https://github.com/jmh0434/CodingTest_Python/blob/848a9f6896d005a8384c31d5a57c2201b644c09e/implementation/knight/README.md)
+
+[게임 개발]
