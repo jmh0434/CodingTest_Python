@@ -6,14 +6,10 @@
 
 → 사전에 외우고 있지 않아도 풀 수 있을 가능성이 높은 문제 유형
 
-[거스름돈]
-(https://github.com/jmh0434/CodingTest_Python/blob/bb4ec8534d1a99bb626e0629226376454b6e97f4/greedy/change/README.md)
+[거스름돈](/greedy/change/README.md)
 
-[큰 수의 법칙]
-(https://github.com/jmh0434/CodingTest_Python/blob/bb4ec8534d1a99bb626e0629226376454b6e97f4/greedy/big_number/README.md)
+[큰 수의 법칙](/greedy/big_number/README.md)
 
-[1이 될 때까지]
-(https://github.com/jmh0434/CodingTest_Python/blob/76f932e123bdeff1532b2b69ce42b042d8ecbd1d/greedy/until_1/README.md)
+[1이 될 때까지](/greedy/until_1/README.md)
 
-[숫자 카드 게임]
-(https://github.com/jmh0434/CodingTest_Python/blob/76f932e123bdeff1532b2b69ce42b042d8ecbd1d/greedy/numcard_game/README.md)
+[숫자 카드 게임](/greedy/numcard_game/README.md)
