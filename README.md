@@ -44,3 +44,6 @@ python // 연산자
 
 [구현]
 (https://github.com/jmh0434/CodingTest_Python/blob/181d74ed5eaf43f54b88893f780a54c7b2c5dc71/implementation/README.md)
+
+[그리디 알고리즘]
+(/greedy/change/change.py)
