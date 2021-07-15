@@ -1,4 +1,4 @@
-package DFS.BFS;
+package DFS.BFS.queue;
 
 import java.util.*;
 

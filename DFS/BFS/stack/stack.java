@@ -1,4 +1,4 @@
-package DFS.BFS;
+package DFS.BFS.stack;
 
 import java.util.*;
 
