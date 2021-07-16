@@ -63,5 +63,5 @@ int main()
     graph[8].push_back(1);
     graph[8].push_back(7);
     
-    bfs(1);
+    bfs(1); // 출력
 }
