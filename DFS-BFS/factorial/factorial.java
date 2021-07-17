@@ -1,4 +1,4 @@
-package DFS.BFS.factorial;
+package DFS-BFS.factorial;
 
 import java.util.*;
 
