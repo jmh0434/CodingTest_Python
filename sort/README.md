@@ -54,6 +54,9 @@ print(array)
 
 
 [정렬 라이브러리](/sort/sort_library/README.md)
+
 [위에서 아래로](/sort/updown/README.md)
+
 [성적이 낮은 순서로 학생 출력](/sort/grade/README.md)
+
 [두 배열의 원소 교체](/sort/swap/README.md)
