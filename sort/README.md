@@ -51,3 +51,9 @@ print(array)
 - 데이터의 크기 범위가 제한 되어 정수 형태로 표현할 수 있을 때만 사용 가능
 - 모든 범위를 담을 수 있는 크기의 리스트(배열)를 선언해야 함
 - 일반적으로 별도의 리스트를 선언하고 그 안에 정렬에 대한 정보를 담는다
+
+
+[정렬 라이브러리] (/sort/sort_library/README.md)
+[위에서 아래로] (/sort/updown/README.md)
+[성적이 낮은 순서로 학생 출력] (/sort/grade/README.md)
+[두 배열의 원소 교체] (/sort/swap/README.md)
