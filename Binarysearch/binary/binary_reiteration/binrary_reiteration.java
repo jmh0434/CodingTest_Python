@@ -1,8 +1,8 @@
-package Binarysearch.binary;
+package Binarysearch.binary.binary_reiteration;
 
 import java.util.*;
 
-public class binrary_recursion {
+public class binrary_reiteration {
     public static int binarySearch(int[] arr, int target, int start, int end) {
         if (start > end)
             return -1;

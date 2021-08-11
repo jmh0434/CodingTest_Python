@@ -1,8 +1,6 @@
-package Binarysearch.binary;
+package Binarysearch.binary.binary_recursion;
 
 import java.util.*;
-
-import javax.lang.model.util.ElementScanner6;
 
 public class binary_recursion {
     public static int binarySearch(int[] arr, int target, int start, int end) {
