@@ -1,4 +1,4 @@
-package dynamic;
+package dynamic.ant_warrior;
 
 import java.util.*;
 

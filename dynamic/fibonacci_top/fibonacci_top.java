@@ -1,4 +1,4 @@
-package dynamic;
+package dynamic.fibonacci_top;
 
 import java.util.*;
 

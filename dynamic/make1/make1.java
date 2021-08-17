@@ -1,4 +1,4 @@
-package dynamic;
+package dynamic.make1;
 
 import java.util.*;
 
