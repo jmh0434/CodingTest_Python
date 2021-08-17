@@ -46,10 +46,10 @@ print("time :", end_time - start_time) # 수행 시간 출력
 
 [그리디 알고리즘](/greedy/README.md)
 
-
 [구현](/implementation/README.md)
-
 
 [BFS/DFS](/DFS-BFS/README.md)
 
 [정렬](/sort/README.md)
+
+[이진탐색](/Binarysearch/README.md)
