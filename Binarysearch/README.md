@@ -41,3 +41,5 @@
     # 입력받은 문자열 그대로 출력
     print(input_data)
     ```
+    [떡볶이 떡 만들기](/BinarySearch/ricecake/README.md)
+    [부품 찾기](/BinarySearch/partion/README.md)
