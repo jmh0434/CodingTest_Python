@@ -43,4 +43,4 @@
     ```
     [떡볶이 떡 만들기](/Binarysearch/ricecake/README.md)
     
-    [부품 찾기](/Binarysearch/partion/README.md)
+    [부품 찾기](/Binarysearch/find_partion/README.md)
